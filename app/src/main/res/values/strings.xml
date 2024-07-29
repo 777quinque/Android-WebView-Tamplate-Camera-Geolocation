@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Мой Экибастуз</string>
+    <string name="channel_name">Екибас уведомления</string>
+    <string name="channel_description">уведомления</string>
+</resources>

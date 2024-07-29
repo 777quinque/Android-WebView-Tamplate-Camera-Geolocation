@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316648905007",
+    "project_id": "ekibas-70c85",
+    "storage_bucket": "ekibas-70c85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316648905007:android:5d5c4b8b3f7de924d5e9da",
+        "android_client_info": {
+          "package_name": "com.ekibastuz.net"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUQMRX4BMDkZaotkX_eCILykYyK1aXa9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

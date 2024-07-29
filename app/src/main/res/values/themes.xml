@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Shomla" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:windowBackground">@drawable/fone</item>
+        <item name="android:statusBarColor" >#000000</item>
+    </style>
+
+    <style name="Theme.Shomla" parent="Base.Theme.Shomla" />
+</resources>
