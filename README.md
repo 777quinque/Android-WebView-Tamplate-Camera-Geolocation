@@ -7,3 +7,6 @@ WebView Tamplate
 - Access to geolocation
 - Access to gallery on android 12 and above
 - Ready template for connecting push notifications to firebase
+
+**Requirements:**
+- Upload the project to Firebase and paste google-services.json into the folder \AndroidStudioProjects\ProjectName\app (For push notifications)
