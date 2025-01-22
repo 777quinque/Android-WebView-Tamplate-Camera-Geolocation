@@ -2,11 +2,11 @@ WebView Tamplate
 
 ![webview](https://github.com/user-attachments/assets/16f9f44a-82fc-4b63-b6b6-7b88c9e3e4dd)
 
-**Functions:**
-- Access to camera on android 12 and above
-- Access to geolocation
-- Access to gallery on android 12 and above
-- Ready template for connecting push notifications to firebase
+**Функции:**
+- Доступ к камере на Android 12 и выше
+- Доступ к геолокации
+- Доступ к галерее на Android 12 и выше
+- Готовый шаблон для подключения push-уведомлений к Firebase
 
-**Requirements:**
-- Upload the project to Firebase and paste google-services.json into the folder \AndroidStudioProjects\ProjectName\app (For push notifications)
+**Требования:**
+- Загрузите проект в Firebase и вставьте google-services.json в папку \AndroidStudioProjects\ProjectName\app (Для push-уведомлений)
